@@ -1,0 +1,66 @@
+/***************************TAG SELECTORS*****************************/
+
+body {
+  background-color: #ffedc6;
+}
+hr {
+  background-color: #ffedc6;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: navy;
+  width: 5%;
+}
+
+h1 {
+  color: #5893d4;
+}
+
+h2
+  {
+    color: #5893d4;
+  }
+
+h3 {
+  color: #5893d4;
+}
+
+img:hover {
+  background-color: #d52484;
+}
+
+
+a:hover {
+  background-color: #d52484;
+}
+
+/*************************CLASS SELECTORS*****************************/
+
+.skull {
+  border-radius: 100%;
+  height: 200px;
+}
+
+.scootertrick {
+  height: 200px;
+  width: 400px;
+}
+
+.brolysuper {
+  height: 400px;
+  width: 200px;
+}
+
+.movie {
+  height: 500px;
+  width: 1000px;
+}
+
+.animetitles {
+  table-layout: fixed;
+  width: 100%;
+  border-style: solid;
+  border-color: black;
+}
+
+/*************************ID SELECTORS*****************************/
